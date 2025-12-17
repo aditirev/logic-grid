@@ -1,0 +1,5 @@
+{
+  "name": "Logic Grid",
+  "description": "Challenge your logic with Logic Grid, a 4x4 binary sudoku-style puzzle game. Fill the grid with blue and green symbols following three simple rules: no more than two identical symbols next to each other, each row and column must have an equal number of blue and green symbols, and no two rows or columns can be the same. The game includes 20 levels and a dark mode toggle for a customizable experience.",
+  "requestFramePermissions": []
+}
